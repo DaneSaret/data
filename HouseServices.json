@@ -1,0 +1,68 @@
+{
+    "Cleanning": [
+        
+        { "id": 1, "name": "Sebastian", "adress":"Someone need to pay the bill","image":"https://storage.googleapis.com/image-stroage/austin-distel-wD1LRb9OeEo-unsplash.jpg", "rating": 5,"price": 12, "description":"Lorem" },
+        
+        
+        { "id": 2, "name": "Sebastian", "adress":"Someone need to pay the bill","image":"https://storage.googleapis.com/image-stroage/austin-distel-wD1LRb9OeEo-unsplash.jpg", "rating": 5,"price": 12, "description":"Lorem"  },
+        
+        { "id": 3, "name": "Sebastian", "adress":"Someone need to pay the bill","image":"https://storage.googleapis.com/image-stroage/austin-distel-wD1LRb9OeEo-unsplash.jpg", "rating": 5,"price": 12, "description":"Lorem"  },
+        
+        { "id": 4, "name": "Sebastian", "adress":"Someone need to pay the bill","image":"https://storage.googleapis.com/image-stroage/austin-distel-wD1LRb9OeEo-unsplash.jpg", "rating": 5,"price": 12, "description":"Lorem"  },
+        
+        { "id": 5, "name": "Sebastian", "adress":"Someone need to pay the bill","image":"https://storage.googleapis.com/image-stroage/austin-distel-wD1LRb9OeEo-unsplash.jpg", "rating": 5,"price": 12, "description":"Lorem"  },
+        
+        { "id": 6, "name": "Sebastian", "adress":"Someone need to pay the bill","image":"https://storage.googleapis.com/image-stroage/austin-distel-wD1LRb9OeEo-unsplash.jpg", "rating": 5,"price": 12, "description":"Lorem"  }
+    ],
+    "Luandry": [
+        
+        { "id": 1, "name": "Sebastian", "adress":"Someone need to pay the bill","image":"https://storage.googleapis.com/image-stroage/austin-distel-wD1LRb9OeEo-unsplash.jpg", "rating": 5,"price": 12, "description":"Lorem" },
+        
+        
+        { "id": 2, "name": "Sebastian", "adress":"Someone need to pay the bill","image":"https://storage.googleapis.com/image-stroage/austin-distel-wD1LRb9OeEo-unsplash.jpg", "rating": 5,"price": 12, "description":"Lorem"  },
+        
+        { "id": 3, "name": "Sebastian", "adress":"Someone need to pay the bill","image":"https://storage.googleapis.com/image-stroage/austin-distel-wD1LRb9OeEo-unsplash.jpg", "rating": 5,"price": 12, "description":"Lorem"  },
+        
+        { "id": 4, "name": "Sebastian", "adress":"Someone need to pay the bill","image":"https://storage.googleapis.com/image-stroage/austin-distel-wD1LRb9OeEo-unsplash.jpg", "rating": 5,"price": 12, "description":"Lorem"  },
+        
+        { "id": 5, "name": "Sebastian", "adress":"Someone need to pay the bill","image":"https://storage.googleapis.com/image-stroage/austin-distel-wD1LRb9OeEo-unsplash.jpg", "rating": 5,"price": 12, "description":"Lorem"  },
+        
+        { "id": 6, "name": "Sebastian", "adress":"Someone need to pay the bill","image":"https://storage.googleapis.com/image-stroage/austin-distel-wD1LRb9OeEo-unsplash.jpg", "rating": 5,"price": 12, "description":"Lorem"  }
+    ],
+    "Electricity": [
+        
+        { "id": 1, "name": "Sebastian", "adress":"Someone need to pay the bill","image":"https://storage.googleapis.com/image-stroage/austin-distel-wD1LRb9OeEo-unsplash.jpg", "rating": 5,"price": 12, "description":"Lorem" },
+        
+        
+        { "id": 2, "name": "Sebastian", "adress":"Someone need to pay the bill","image":"https://storage.googleapis.com/image-stroage/austin-distel-wD1LRb9OeEo-unsplash.jpg", "rating": 5,"price": 12, "description":"Lorem"  },
+        
+        { "id": 3, "name": "Sebastian", "adress":"Someone need to pay the bill","image":"https://storage.googleapis.com/image-stroage/austin-distel-wD1LRb9OeEo-unsplash.jpg", "rating": 5,"price": 12, "description":"Lorem"  },
+        
+        { "id": 4, "name": "Sebastian", "adress":"Someone need to pay the bill","image":"https://storage.googleapis.com/image-stroage/austin-distel-wD1LRb9OeEo-unsplash.jpg", "rating": 5,"price": 12, "description":"Lorem"  },
+        
+        { "id": 5, "name": "Sebastian", "adress":"Someone need to pay the bill","image":"https://storage.googleapis.com/image-stroage/austin-distel-wD1LRb9OeEo-unsplash.jpg", "rating": 5,"price": 12, "description":"Lorem"  },
+        
+        { "id": 6, "name": "Sebastian", "adress":"Someone need to pay the bill","image":"https://storage.googleapis.com/image-stroage/austin-distel-wD1LRb9OeEo-unsplash.jpg", "rating": 5,"price": 12, "description":"Lorem"  }
+    ],
+    "Plumbing": [
+        
+        { "id": 1, "name": "Sebastian", "adress":"Someone need to pay the bill","image":"https://storage.googleapis.com/image-stroage/austin-distel-wD1LRb9OeEo-unsplash.jpg", "rating": 5,"price": 12, "description":"Lorem" },
+        
+        
+        { "id": 2, "name": "Sebastian", "adress":"Someone need to pay the bill","image":"https://storage.googleapis.com/image-stroage/austin-distel-wD1LRb9OeEo-unsplash.jpg", "rating": 5,"price": 12, "description":"Lorem"  },
+        
+        { "id": 3, "name": "Sebastian", "adress":"Someone need to pay the bill","image":"https://storage.googleapis.com/image-stroage/austin-distel-wD1LRb9OeEo-unsplash.jpg", "rating": 5,"price": 12, "description":"Lorem"  },
+        
+        { "id": 4, "name": "Sebastian", "adress":"Someone need to pay the bill","image":"https://storage.googleapis.com/image-stroage/austin-distel-wD1LRb9OeEo-unsplash.jpg", "rating": 5,"price": 12, "description":"Lorem"  },
+        
+        { "id": 5, "name": "Sebastian", "adress":"Someone need to pay the bill","image":"https://storage.googleapis.com/image-stroage/austin-distel-wD1LRb9OeEo-unsplash.jpg", "rating": 5,"price": 12, "description":"Lorem"  },
+        
+        { "id": 6, "name": "Sebastian", "adress":"Someone need to pay the bill","image":"https://storage.googleapis.com/image-stroage/austin-distel-wD1LRb9OeEo-unsplash.jpg", "rating": 5,"price": 12, "description":"Lorem"  }
+    ]
+    
+    
+}
+
+
+
+
